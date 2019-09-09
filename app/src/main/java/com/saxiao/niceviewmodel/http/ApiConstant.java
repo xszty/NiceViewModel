@@ -16,7 +16,7 @@ public class ApiConstant {
 	}
 
 	public static ApiConstant newInstance(){
-		ApiConstant apiConstant = new ApiConstant("http://222.173.38.98:9090/psms/api/");
+		ApiConstant apiConstant = new ApiConstant("http://222.173.98.78:8080/psms/api/");
 		return apiConstant;
 	}
 }
